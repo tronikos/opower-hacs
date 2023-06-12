@@ -4,6 +4,11 @@ Temporary HACS integration for PG&E via Opower until https://github.com/home-ass
 For documentation see https://github.com/home-assistant/home-assistant.io/pull/26793 or better the generated page at
 https://deploy-preview-26793--home-assistant-docs.netlify.app/integrations/opower
 
+Supported utilities:
+- Pacific Gas & Electric (PG&E)
+- Puget Sound Energy (PSE)
+- Baltimore Gas and Electric (BGE)
+
 # Installation
 
 ## HACS
