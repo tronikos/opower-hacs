@@ -1,13 +1,20 @@
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg)](https://github.com/hacs/integration)
 
-Temporary HACS integration for PG&E via Opower until https://github.com/home-assistant/core/pull/90489 is merged and released to core.
+Temporary HACS integration for utilities that use opower.com such as PG&amp;E until https://github.com/home-assistant/core/pull/90489 is merged and released to core.
 For documentation see https://github.com/home-assistant/home-assistant.io/pull/26793 or better the generated page at
 https://deploy-preview-26793--home-assistant-docs.netlify.app/integrations/opower
 
 Supported utilities:
+
 - Pacific Gas & Electric (PG&E)
 - Puget Sound Energy (PSE)
-- Baltimore Gas and Electric (BGE)
+- Exelon subsidiaries
+  - Atlantic City Electric
+  - Baltimore Gas and Electric (BGE)
+  - Commonwealth Edison (ComEd)
+  - Delmarva Power
+  - PECO Energy Company (PECO)
+  - Potomac Electric Power Company (Pepco)
 
 # Installation
 
@@ -26,4 +33,3 @@ Supported utilities:
 1. Go to [Settings / Devices & Services / Integrations](http://homeassistant.local:8123/config/integrations). Click **+ ADD INTEGRATION**
 2. Search for "Opower" and click on it
 3. Restart Home Assistant
-
