@@ -11,9 +11,9 @@
         "step": {
             "reauth_confirm": {
                 "data": {
-                    "password": "Password"
+                    "password": "Password",
+                    "username": "Username"
                 },
-                "description": "Enter password for {username}",
                 "title": "Reauthenticate Integration"
             },
             "user": {
