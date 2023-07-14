@@ -5,8 +5,6 @@ For documentation see https://next.home-assistant.io/integrations/opower/
 
 Supported utilities:
 
-- Pacific Gas & Electric (PG&E)
-- Puget Sound Energy (PSE)
 - Evergy
 - Exelon subsidiaries
   - Atlantic City Electric
@@ -15,6 +13,8 @@ Supported utilities:
   - Delmarva Power
   - PECO Energy Company (PECO)
   - Potomac Electric Power Company (Pepco)
+- Pacific Gas & Electric (PG&E)
+- Puget Sound Energy (PSE)
 
 # Installation
 
