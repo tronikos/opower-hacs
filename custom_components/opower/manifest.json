@@ -12,7 +12,7 @@
   "iot_class": "cloud_polling",
   "issue_tracker": "https://github.com/tronikos/opower-hacs/issues",
   "requirements": [
-    "opower==0.0.18"
+    "opower==0.0.20"
   ],
   "version": "0.0.0"
 }
